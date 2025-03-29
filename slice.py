@@ -13,6 +13,8 @@ def solution(A, K):
 
 
 def main():
+    A = [1,2,3,4,5]
+    K = 2
     ans = solution(A, K)
     return ans
 
